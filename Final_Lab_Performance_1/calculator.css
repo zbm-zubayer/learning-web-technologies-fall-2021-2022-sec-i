@@ -7,6 +7,7 @@
 #result {
     height: 100px;
     width: 100%;
+    background-color: #aaa5a5;
 }
 .buttons {
     height: 400px;
@@ -14,8 +15,16 @@
     margin: auto;
     
 }
-button{
+.button-row-1 {
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button {
     height: 70px;
     width: 70px;
     font-size: 15pt;
+    margin: 3px;
 }
