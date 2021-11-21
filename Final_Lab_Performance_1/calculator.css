@@ -1,0 +1,21 @@
+.container {
+    height: 600px;
+    width: 400px;
+    background-color: #aaa5a5;
+    margin: auto;
+}
+#result {
+    height: 100px;
+    width: 100%;
+}
+.buttons {
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    
+}
+button{
+    height: 70px;
+    width: 70px;
+    font-size: 15pt;
+}
